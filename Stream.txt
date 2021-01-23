@@ -1,1 +1,0 @@
-Streams are used when we want to work chunk by chunk with file system.
